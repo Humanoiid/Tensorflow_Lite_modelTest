@@ -136,3 +136,4 @@ fabric.properties
 
 /android/assets/tfl
 *.hprof
+/android/models/src/main/assets/mnist
