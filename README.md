@@ -10,7 +10,7 @@
 
 
 # branch issue
-* made new branch about Tensorflow 2.2 based example
+* made new branch about Tensorflow 2.3 based example
 
 
 
