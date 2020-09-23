@@ -135,3 +135,5 @@ fabric.properties
 # End of https://www.toptal.com/developers/gitignore/api/androidstudio
 
 /android/assets/tfl
+*.hprof
+/android/models/src/main/assets/mnist

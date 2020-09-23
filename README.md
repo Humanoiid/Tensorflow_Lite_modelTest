@@ -7,6 +7,16 @@
 ## Tensorflow lite project goal
 * Run tensorflow lite model on Android device and compare the time
 
+
+
+# branch issue
+* made new branch about Tensorflow 2.3 based example
+
+
+
+
+
+
 ## Condition
 1. python: 3.7.0
 2. tensorflow: 2.1.0
